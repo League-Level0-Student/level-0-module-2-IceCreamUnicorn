@@ -7,6 +7,7 @@ package _05_magic_8_ball;
 import java.util.Random;
 
 public class Magic8Ball {
+public static void main(String[] args) {
 
 	// 1. Make a main method that includes all the steps below….
 
@@ -31,5 +32,6 @@ public class Magic8Ball {
 	// 8. If the random number is 3
 
 	// -- write your own answer
-
+	
+}                                                   
 }
